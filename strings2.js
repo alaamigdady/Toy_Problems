@@ -8,10 +8,17 @@
 	function nextItem(items, elem){
 		//your code is here
 		for(var i=0; i<items.length;i++){
+			
 			if(items[i]===elem){
 				return items[i+1];
 			}
-		}
+			else if (elem===items[items.length-1]){
+				return "it is the last character!!"
+			}}
+			
+				return "the "+elem+" does not exist"
+			
+		
 	}
 
 //  We need a function that can transform a number into a string.
