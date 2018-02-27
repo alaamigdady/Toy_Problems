@@ -33,6 +33,6 @@
 				wholeStr +=result
 				}
         }
-        wholeStr.slice(wholeStr.length-1);
+        
 		return wholeStr;
     }
