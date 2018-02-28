@@ -4,6 +4,7 @@
 // accum("RqaEzty"); // "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
 // accum("cwAt");    // "C-Ww-Aaa-Tttt"
 
+<<<<<<< HEAD
     function accum(input)
     {
         //your code is here
@@ -36,3 +37,8 @@
         
 		return wholeStr;
     }
+=======
+    function accum(input){
+        //your code is here
+    }
+>>>>>>> f347da1f79e381ff1db6b5d93ff64fe7dadba6f5
